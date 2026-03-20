@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Keerthan 👋
 
-<!--
-**keerthan0803/keerthan0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer interested in building practical applications using AI/ML and web technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+* 🎓 Student & aspiring Software Engineer
+* 💡 Exploring AI/ML and Web Development
+* 🌱 Continuously learning and improving
+
+---
+
+## Tech Stack
+
+* Python, JavaScript, C
+* HTML, CSS, React
+* Node.js, Flask
+* MySQL
+* Git & GitHub
+
+---
+
+## Projects
+
+* AI/ML applications
+* Web development projects
+* Open source contributions
+
+---
+
+## Contact
+
+* GitHub: https://github.com/keerthan0803
+* Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+*Thanks for visiting my profile.*
