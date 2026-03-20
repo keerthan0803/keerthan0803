@@ -33,7 +33,7 @@ I'm a developer interested in building practical applications using AI/ML and we
 ## Contact
 
 * GitHub: https://github.com/keerthan0803
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [keerthanpentam@gmail.com](mailto:keerthanpentam@gmail.com)
 
 ---
 
